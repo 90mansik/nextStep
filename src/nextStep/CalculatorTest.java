@@ -9,6 +9,8 @@ public class CalculatorTest {
 		subtract(cal);
 		multiply(cal);
 		divide(cal);
+		
+		//테스트
 
 		
 	}
