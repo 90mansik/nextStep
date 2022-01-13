@@ -10,8 +10,7 @@ public class CalculatorTest {
 		multiply(cal);
 		divide(cal);
 		
-		//테스트2
-
+		//테스트23
 		
 	}
 	
